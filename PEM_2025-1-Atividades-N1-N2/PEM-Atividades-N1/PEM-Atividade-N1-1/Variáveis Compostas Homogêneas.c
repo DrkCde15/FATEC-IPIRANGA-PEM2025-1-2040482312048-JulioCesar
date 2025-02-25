@@ -2,7 +2,7 @@
 Prof. Carlos Veríssimo                                    
 --------------------------------------------------------
 Objetivo do Programa: Variáveis Compostas Homogêneas     
-Data - 22/02/2025                                                
+Data - 25/02/2025                                                
 Autor: Julio Cesar Santana - RA 2040482312048*/
 
 #include <stdio.h>
