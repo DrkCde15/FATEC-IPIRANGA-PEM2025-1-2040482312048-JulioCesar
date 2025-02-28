@@ -1,9 +1,12 @@
-/* Disciplina: Programaçao Estruturada e Modular
-Prof. Carlos Veríssimo                                    
---------------------------------------------------------
-Objetivo do Programa: Variáveis Compostas Homogêneas     
-Data - 25/02/2025                                                
-Autor: Julio Cesar Santana - RA 2040482312048*/
+/*-------------------------------------------------------*
+*                      FATEC Ipiranga                    *
+* Disciplina: Programaçao Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: Variáveis Compostas Homogêneas.c *
+* Data - 23/02/2024                                      * 
+* Autor: Júlio César                                     *
+*--------------------------------------------------------*/
 
 #include <stdio.h>
 #include <string.h>
