@@ -4,7 +4,7 @@
 *          Prof. Veríssimo                               *
 *--------------------------------------------------------*
 * Objetivo do Programa: Variáveis Compostas Homogêneas.c *
-* Data - 23/02/2024                                      * 
+* Data - 23/02/2025                                      * 
 * Autor: Júlio César                                     *
 *--------------------------------------------------------*/
 
