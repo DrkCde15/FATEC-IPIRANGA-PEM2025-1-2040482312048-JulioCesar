@@ -4,7 +4,7 @@
 *          Prof. Veríssimo                               *
 *--------------------------------------------------------*
 * Objetivo do Programa: Projeto Final PEM.c              *
-* Data - 07/06/2025                                      * 
+* Data - 08/06/2025                                      * 
 * Autor: Júlio Santana, Alef Vicente e Larissa Costa     *
 *--------------------------------------------------------*/
 
